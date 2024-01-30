@@ -35,6 +35,6 @@ programming model that helps you efficiently develop user interfaces, be they si
   combine modifiers like `@submit.prevent` ` @click.stop.prevent`
 
 ## Vue structure 
-(for single page instances)
+(for single vue instances)
 
 `new Vue({ el: "#vue-app", data: { }, methods: {} });`
